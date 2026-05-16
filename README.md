@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">I'm Htoo Eain Lin from Myanmar.<br><br>- 🔭 I’m working as a cloud support engineer.<br>- 📚 I'm currently learning vibe coding.</p>
+<p align="left">I'm Htoo Eain Lin from Myanmar.<br><br>- 🔭 I’m working as a cloud engineer.<br>- 📚 I'm currently learning vibe coding.</p>
 
 ###
 
